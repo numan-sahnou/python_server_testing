@@ -18,3 +18,4 @@ You are to create a python website, using flask, that calculates the mean of GET
 * Build the application with docker compose : `docker-compose up`
 * Try GET requests: `http://localhost:5000/mean?list=1&list=2&list=3&list=4`
 * Execute tests : `pytest .`
+webhook jenkins
