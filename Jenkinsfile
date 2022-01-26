@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('NPM Build') {
             steps{
-                echo 'seocnd test'
+                echo 'seocnd test é'
                 bat 'npm install'
                 bat 'npm start'
             }
